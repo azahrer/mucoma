@@ -1,0 +1,40 @@
+
+********************************
+** Title: linguistic data collector
+** Author: Alexander Zahrer
+**
+** Description: This scipt is designed to collect annotated data from
+** linguistic publications and add them to a searchable ELAN annotation.
+** This facilitates the collection 
+********************************
+
+Example: I want o collect all examples where TNG verbs take object prefixes.
+To do this I have to survey a huge amount of grammars and articles and collect
+all examples I can find. To facilitate this process a standard format for
+the dat collection should be established. This scripts helps in doing so.
+
+
+Workflow and specs:
+
+- copy the examples you wish to collect manually from the pdf to a text file
+
+- use the following format:
+line 1: Reference to the text (=author_name+year+page_nr/example_nr)
+line 2: orthographic transcription
+line 3: morpheme breaks
+line 4: free translation
+
+- The script takes text file of this format. Multiple examples will be
+concatenated in line 5, etc. without a free line between them
+
+- Add the new examples to an existing ELAN annotation file with all
+previously collected examples.
+
+- The examples are not time aligned and should take have a default length,
+e.g. 2 seconds
+
+- the tier structure in the ELAN file should be planned carefully in order to
+get a corpus to perform multilayer search
+
+- New tiers can be added manually with ELAN to further process, or comment
+the collected data
