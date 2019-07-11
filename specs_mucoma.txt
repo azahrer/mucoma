@@ -1,0 +1,21 @@
+
+************************
+*** title: mucoma - Muyu Corpus Management
+*** author: Alexander Zahrer
+*** description: This is a bunch of scripts to facilitate my work
+***     on the language corpus of the Muyu Documentation Project.
+***     It works with the Python classes from pimpy.py which is
+***     developped to handel ELAN and PRAAT files.
+************************
+
+Note: Please write new scripts in a working directory and copy only finished
+      scripts to the muco_scripts folder.
+
+Specs:
+
+- create a GitHub repository for future scripts
+
+- take words from a tokenized tier, translate each word with the use of the XML version of Jack's dictionary and write the translation to a translation tier
+
+- POS tagging with the help of the dictionary
+
