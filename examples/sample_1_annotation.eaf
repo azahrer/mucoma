@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-09T16:34:08+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/a_zahr01/Documents/Felddaten/audio/fieldtrip_1/180817_009_[Tascam].wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../../Documents/Felddaten/audio/fieldtrip_1/180817_009_[Tascam].wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:87d1c3f9-6dc4-4d52-9b5e-2a242402eea2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">63</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1399"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6059"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6252"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="12932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="15061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="25111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="25300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="34140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="34380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="41640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="41820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="47810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="48170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="54170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="54400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="69720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="70110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="75020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="75410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="79610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="79884"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="85304"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="85724"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="93781"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="93890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="98613"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="98818"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="108147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="108587"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="117636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="117944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="124394"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="124574"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="127234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="127444"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="131934"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="132104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="134394"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="135144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="138144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="138524"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="142054"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="142384"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="145374"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="146354"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="153774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="153974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="156294"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="156754"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="158674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="158944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="162974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="163164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="165364"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="165564"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="167418"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="167539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="168829"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Alex" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Alip" TIER_ID="tx">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>onjom, onjom je ambat ko</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>kiduluk wene onjom kelebip odo kiduluk ja go</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>woya ambang..., woya ambang a ena mba wanot-wanot dionipket wene ambip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>tut... tut ambip ji ambip okune jenonipket tip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>kele nipket (eh...) ji tanamet ko kadap</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ji tanamet ko kadap kole (eh...) ena emba go kedo ombat winipten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>om kobomok winipten kot tana..., tanamo alip ambip ko</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>(eh...) tana ji amboja, ji onija mo alip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>kele ji taman a aliodonip ket (eh...) kedo om nemgaip, om a enamba [m]bet  (eh...) kobomonip bemene jalipten {ini} kedo nengaip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>nengga anenggaip ko tip a wene midikoden</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>midikoden e enamba minip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ji enamba menonip ket mene temipten om edo anenggaip ko nowan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>om edo kanema [m]bet (eh...) bane nenggaen engge enamba bet tana met oja tededaip ko </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>enamba, nup bet an</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>animan edawo aip balin weno nup alup tem kaweno nup bet alup tem embit alup ombet bemene nenggangga nup ket anengga nup ket tiodup o enggip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>enggip e, ae om ko medepkot nenggaip ke odo (eh...) adambon kimbon je om</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>alumo jalupten e, kole koliget medepkot kejap-kejap eja [m]bet beo menggaip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>engganip ket kedo kabakajonip jenbanipten o</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>kedo jenbanip e angga aleng janop, aleng adigot janop kedo wane</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>nong kobi ap kobi oja janipten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>nong kobi ap kobi wadi jado tionipket</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ma kubunime jo engge jonggip ka a kubunanup balin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>jadi aliup koe enamba kip betmo wani timbilime</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>jadi aliup je, ma kubunime midikoden, ma kubunime nowan kolo wangga [m]bet wa kedowenebip</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>wene kedowenebonip ket wene onjom kelipten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>onjom kele wenebip ko ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ji enamba aleng-aleng, aleng adigot kanenipket [?]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>oja aleng adigot mo kanipten, kolipten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>kole wene onjom kelebip ojen o</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>ojen ombetmon</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="ft" PARENT_REF="tx" PARTICIPANT="Alip" TIER_ID="ft">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>bat, the beginning of the bat (it) is</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>the first time, the bats are from </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ancestors... ancestors and father and mother, long time ago, lived in a house</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>they built a house in the jungle and lived there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>and they had many children</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>they had many children, so the parents went to find Sago</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>the parents went to find Sago while the children stayed at home</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>they lived with their oldest brothers and oldest sister only</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>and then, their younger brothers and sisters  stayed and they cooked Sago which was kept by father and mother</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>after eating, they stayed there until the evening (and waited)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>in the afternoon, the parents came</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>when the parents came to see the Sago, there was no Sago</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>the parents asked the children "who cooked the sago"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>(children's aswer) "mother and father, it's done by us"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>there ist no food, so we went to find [alup tem]Vegetable  , brought it home and cooked it, then we ate it, so we are living</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>(parent's answer) "Why did you eat the Sago? We keep it for the party."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>"We keep the sago, so why do you cook and eat the Sago quickly?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>That's why they got angry and hit them (=children).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>After hitting the children, they flew away while crying</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>they get on the roofs and trees</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>after getting on the roofs and trees</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>(parents ask:) "come down", (children reply:) "we do not want to come down"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>(children:) We are up here, father and mother, you stay down there alone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>(children:) We are up here, (parents:) you come down here, it's already night; but they flew out from up there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>They flew out and became bats.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>The became bats and flew away.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>their parents cryed, [?]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>they cried and then they gave up</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>so they become bats</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>That's it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="gl" PARENT_REF="tx" PARTICIPANT="Alip" TIER_ID="ge"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="tx" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="ft" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
